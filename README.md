@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cesaire-Njietche
 - 👀 I’m interested in Robots, Drone, ROS
 - 🌱 I’m currently learning Octomap
-- 💞️ I’m looking to collaborate on SLAM with Deep Learning projects
+- 💞️ I’m looking to collaborate on SLAM with Deep Learning projects including PhD projects
 - 📫 How to reach me Whatsapp: +237678967553 
 
 <!---
