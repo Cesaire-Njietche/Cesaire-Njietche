@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cesaire-Njietche
-- 👀 I’m interested in Robots, Drone, ROS
-- 🌱 I’m currently learning Octomap
-- 💞️ I’m looking to collaborate on SLAM with Deep Learning projects including PhD projects
-- 📫 How to reach me Whatsapp: +237678967553 
+- 👀 I’m interested in Robots, ROS, AI, IoT and Cybersecurity
+- 🌱 I’m currently working on Iot with STM32 MCU and Cybersecurity
+- 💞️ I’m looking to collaborate on risk management of an IoT network with Deep Learning projects including PhD projects
+- 📫 How to reach me - Whatsapp: +237678967553 
 
 <!---
 Cesaire-Njietche/Cesaire-Njietche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
